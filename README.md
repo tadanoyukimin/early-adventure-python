@@ -1,5 +1,7 @@
 # early-adventure-python
-just learning some ways for input and def function interacting. the scope of the game is already bigger than the code so i am rewriting it
+Only a simple project.
+
+Just learning some ways for input and def function and seeing if user input could be dynamically placed into a dictionary.
 
 
 To run the game you have to run maingame.py. It takes the user input and inputs it into a dictionary that could be called later on. The paths and choices are set, there is nothing past the red or blue room. 
